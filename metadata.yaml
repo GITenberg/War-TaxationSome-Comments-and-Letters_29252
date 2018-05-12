@@ -1,0 +1,30 @@
+_repo: War-TaxationSome-Comments-and-Letters_29252
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Kahn, Otto H.
+    alias: Kahn, Otto Hermann
+    birthdate: 1867
+    deathdate: 1934
+    gutenberg_agent_id: '33791'
+    url: http://www.gutenberg.org/2009/agents/33791
+    wikipedia: http://en.wikipedia.org/wiki/Otto_Hermann_Kahn
+description: ''
+gutenberg_issued: '2009-06-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29252'
+  lccn: '17023034'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'World War, 1914-1918 -- Finance -- United States'
+- !lcsh 'Income tax -- United States'
+- !lcc 'HJ'
+title: 'War Taxation: Some Comments and Letters'
+url: http://www.gutenberg.org/ebooks/29252
